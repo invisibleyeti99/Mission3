@@ -8,7 +8,7 @@ namespace backendMission3
 {
     class Class1
     {
-        public static void printBoard(char[] arr)
+        public void printBoard(char[] arr)
         {
 
             Console.WriteLine("     |     |    ");
