@@ -66,9 +66,9 @@ namespace backendMission3
                 {
                     break;
                 }
-
+                
             }
-
+            Console.ReadLine();
         }
 
     }
